@@ -1,7 +1,7 @@
 bcvss
 =====
 
-Body Cam Video Storage System
+Body Camera Video Storage System
 
 Collaboration proposal
 -----------------------
