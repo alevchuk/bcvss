@@ -3,8 +3,8 @@ bcvss
 
 Body Cam Video Storage System
 
-Collaboration Rules
--------------------
+Collaboration
+-------------
 
 For new architectures create a separate prototype directory.
 
