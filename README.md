@@ -13,7 +13,7 @@ For new architectures create a separate prototype directory.
 Documentation and discussion
 -----------------------------
 
-Please refer to the github Wiki
+Please refer to the bcvss Wiki in github
 
 Related projects
 ----------------
